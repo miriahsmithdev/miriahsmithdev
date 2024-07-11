@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 style="text-align: center;">Hi there 👋 I'm Miriah Smith!</h2>
+<hr/>
 
 <!--
 **miriahsmithdev/miriahsmithdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
