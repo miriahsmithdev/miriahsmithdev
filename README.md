@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Miriah Smith!</h1>
 <div align="center">
-<img src="https://media0.giphy.com/media/xT1XGN2kNj1U95ECkw/giphy.gif?cid=6c09b952rixjlx11xhuk0xcmc4fhx2djako1niv9xhplwojc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Hello gif">
+<img src="https://i.pinimg.com/originals/de/77/e2/de77e2152bc49a51b4280dd9881ec91a.gif" alt="Hello gif">
 </div>
 <h2>About Me 👽</h2>
 <p>I'm a full-stack developer with a not-so-secret love affair with the front-end. I believe in the importance of the human element in design, so UX/UI and accessibility are always top priorities in my work.</p>
