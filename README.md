@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/de/77/e2/de77e2152bc49a51b4280dd9881ec91a.gif" alt="Hello gif">
 </div>
 <h2>About Me 👽</h2>
-<p>I'm a full-stack developer with a not-so-secret love affair with the front-end. I believe in the importance of the human element in design, so UX/UI and accessibility are always top priorities in my work.</p>
+<p>I'm a full-stack developer with a not-so-secret love of the front-end. I believe in the importance of the human element in design, so UX/UI and accessibility are always top priorities in my work.</p>
 <p><strong>🎨 UX/UI Enthusiast:</strong> I strive to create interfaces that are not only functional but also intuitive and enjoyable to use.</p>
 <p><strong>♿️ Accessibility Advocate:</strong> Ensuring that web applications are accessible to everyone is a key part of my development process.</p>
 <p><strong>🧩 Problem Solver:</strong> I enjoy piecing together different elements of code to create efficient and elegant solutions.</p>
